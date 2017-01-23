@@ -18,6 +18,9 @@ public class EmployeeTest {
 		lisi.empDesignation("Develop");
 		lisi.empSalary(10000);
 		lisi.printEmployeeInfo();
+		
+		String s = "\"This is in quotes\"";
+		System.out.println(s);
 	}
 
 }
