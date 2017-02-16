@@ -25,6 +25,9 @@ public class StringTest {
         for (String retval: Str.split("-")){
             System.out.println(retval);
         }
+        
+        boolean x=true;
+        System.out.println(x);
     }
 
 }
